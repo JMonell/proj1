@@ -1,0 +1,14 @@
+C:\Users\joarm\development\projects\OPG\MyRepos\proj1\bin\Debug\net8.0\proj1.exe
+C:\Users\joarm\development\projects\OPG\MyRepos\proj1\bin\Debug\net8.0\proj1.deps.json
+C:\Users\joarm\development\projects\OPG\MyRepos\proj1\bin\Debug\net8.0\proj1.runtimeconfig.json
+C:\Users\joarm\development\projects\OPG\MyRepos\proj1\bin\Debug\net8.0\proj1.dll
+C:\Users\joarm\development\projects\OPG\MyRepos\proj1\bin\Debug\net8.0\proj1.pdb
+C:\Users\joarm\development\projects\OPG\MyRepos\proj1\obj\Debug\net8.0\proj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joarm\development\projects\OPG\MyRepos\proj1\obj\Debug\net8.0\proj1.AssemblyInfoInputs.cache
+C:\Users\joarm\development\projects\OPG\MyRepos\proj1\obj\Debug\net8.0\proj1.AssemblyInfo.cs
+C:\Users\joarm\development\projects\OPG\MyRepos\proj1\obj\Debug\net8.0\proj1.csproj.CoreCompileInputs.cache
+C:\Users\joarm\development\projects\OPG\MyRepos\proj1\obj\Debug\net8.0\proj1.dll
+C:\Users\joarm\development\projects\OPG\MyRepos\proj1\obj\Debug\net8.0\refint\proj1.dll
+C:\Users\joarm\development\projects\OPG\MyRepos\proj1\obj\Debug\net8.0\proj1.pdb
+C:\Users\joarm\development\projects\OPG\MyRepos\proj1\obj\Debug\net8.0\proj1.genruntimeconfig.cache
+C:\Users\joarm\development\projects\OPG\MyRepos\proj1\obj\Debug\net8.0\ref\proj1.dll
