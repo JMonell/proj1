@@ -12,3 +12,4 @@ C:\Users\joarm\development\projects\OPG\MyRepos\proj1\obj\Debug\net8.0\refint\pr
 C:\Users\joarm\development\projects\OPG\MyRepos\proj1\obj\Debug\net8.0\proj1.pdb
 C:\Users\joarm\development\projects\OPG\MyRepos\proj1\obj\Debug\net8.0\proj1.genruntimeconfig.cache
 C:\Users\joarm\development\projects\OPG\MyRepos\proj1\obj\Debug\net8.0\ref\proj1.dll
+C:\Users\joarm\development\projects\OPG\MyRepos\proj1\obj\Debug\net8.0\proj1.sourcelink.json
